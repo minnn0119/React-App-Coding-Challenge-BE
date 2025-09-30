@@ -14,7 +14,7 @@ npm install
 npm run dev   # run with nodemon
 # or
 npm start     # run with node
-Backend runs at: http://localhost:5000
+Backend runs at: http://localhost:4000
 ```
 ### 2. Frontend
 ```
