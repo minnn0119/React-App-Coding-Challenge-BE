@@ -16,7 +16,7 @@ app.use('/user', require('./routes/user'));
 
 
 
-const setupSocket = require('./socket');ƒ
+const setupSocket = require('./socket');
 setupSocket(io, db);
 
 const PORT = 4000;
